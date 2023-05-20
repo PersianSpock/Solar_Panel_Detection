@@ -24,3 +24,15 @@ YOLOv5-L: 46.5 M parameters
 YOLOv5-X: 86.7 M parameters
 
 Architectures are based on (https://github.com/ultralytics/yolov5) repository.
+
+**Image Segmentation**
+
+Unet++: ~20 M parameters
+
+FPN: ~20 M parameters
+
+DeepLabV3+: ~20 M parameters
+
+PSPNet: ~20 M parameters
+
+Architectures are based on https://github.com/qubvel/segmentation_models.pytorch repository.
