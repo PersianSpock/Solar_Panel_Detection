@@ -5,11 +5,7 @@ Interview Project.
 1.Solar Panels Dataset:
 
 Multi-resolution dataset for photovoltaic panel segmentation from satellite and aerial imagery (https://zenodo.org/record/5171712)
-
-2.Google Maps Aerial Images
-
-GoogleMapsAPI: src/data/wrappers.GoogleMapsAPIDownloader
-Web Scraping: src/data/wrappers.GoogleMapsWebDownloader
+Also available at kaggle: https://www.kaggle.com/datasets/salimhammadi07/solar-panel-detection-and-identification
 
 # Models used:
 
