@@ -14,9 +14,13 @@ Web Scraping: src/data/wrappers.GoogleMapsWebDownloader
 # Models used:
 
 **Object Detection**
+
 YOLOv5-S: 7.2 M parameters
+
 YOLOv5-M: 21.2 M parameters
+
 YOLOv5-L: 46.5 M parameters
+
 YOLOv5-X: 86.7 M parameters
 
 Architectures are based on (https://github.com/ultralytics/yolov5) repository.
