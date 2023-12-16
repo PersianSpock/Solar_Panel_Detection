@@ -1,5 +1,5 @@
 # Solar_Panel_Detection
-Fun Project.
+Fun Project. To be continued...
 
 # Dataset
 
